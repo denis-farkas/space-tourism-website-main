@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/denis-farkas/space-tourism-website-main)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://space-tourism-website-main-eight.vercel.app/)
 
 ## My process
 
