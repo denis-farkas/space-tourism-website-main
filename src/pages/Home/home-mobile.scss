@@ -1,0 +1,54 @@
+@media screen and (max-width: 500px) {
+  .body {
+    background-image: url(../../assets/home/background-home-mobile.jpg);
+    background-size: cover;
+  }
+
+  .home {
+    width: 375px;
+    height: 100vh;
+    margin: 0 auto;
+  }
+
+  .text-content {
+    margin-top: 3.4rem;
+    height: auto;
+  }
+
+  .text-content h5 {
+    margin-inline-start: 4px;
+    letter-spacing: 3.4px;
+  }
+
+  .text-content h1 {
+    font-size: 6.1rem;
+    margin-block-start: 1.8rem;
+  }
+
+  .container-body .body-text {
+    margin-top: 1.4rem;
+    line-height: 1.63;
+    width: 25rem;
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .explore-content {
+    height: 18.5rem;
+    margin-top: 2.8rem;
+    margin-bottom: 0;
+  }
+
+  .explore {
+    width: 11.54rem;
+    height: 11.54rem;
+  }
+
+  .explore:hover {
+    outline: 3rem solid #ffffff22;
+  }
+
+  .explore:focus {
+    outline: 3rem solid #ffffff22;
+  }
+}

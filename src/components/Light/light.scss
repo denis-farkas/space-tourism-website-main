@@ -1,0 +1,97 @@
+.crew-content {
+  display: flex;
+  flex-wrap: nowrap;
+  width: 100%;
+  height: 100%;
+}
+
+.crew-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  color: #fff;
+  width: 34.111rem;
+  padding-left: 6.111rem;
+}
+
+.crew-title {
+  color: #ffffff;
+  margin-top: 4.2rem;
+  margin-bottom: 0.667rem;
+}
+
+.crew-title h5 {
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+
+.crew-title .gris {
+  margin-right: 1.111rem;
+  color: rgb(76, 75, 75);
+  font-weight: 700;
+}
+
+.crew-role {
+  margin-top: 8rem;
+  font-family: "Bellefair", serif;
+  font-size: 1.778rem;
+  text-transform: uppercase;
+  font-weight: 400;
+  color: rgb(76, 75, 75);
+}
+
+.crew-name {
+  margin-top: 0.8rem;
+  font-family: "Bellefair", serif;
+  font-size: 3.111rem;
+  text-transform: uppercase;
+  width: 34.111rem;
+}
+
+.crew-left .body-text {
+  margin-top: 1.35rem;
+  width: 24.417rem;
+  height: 8.889rem;
+  hyphens: none;
+}
+
+.crew-selector {
+  margin-top: 4.8rem;
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 7.333rem;
+  height: 1.111rem;
+}
+
+.crew-selector button {
+  width: 0.833rem;
+  height: 0.833rem;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+}
+
+.crew-selector button:hover {
+  background-color: grey;
+}
+
+.crew-selector .button-inactive {
+  background-color: rgb(36, 35, 35);
+}
+
+.crew-selector .button-active {
+  background-color: #ffffff;
+}
+.crew-right {
+  display: flex;
+  justify-content: left;
+  align-items: flex-end;
+  width: 34.167rem;
+}
+
+.crew-right img {
+  margin-left: -1.5rem;
+}

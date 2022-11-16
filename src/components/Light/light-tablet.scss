@@ -1,0 +1,68 @@
+@media screen and (max-width: 1024px) {
+  .crew-content {
+    flex-wrap: wrap;
+    width: 768px;
+    max-height: 1024px;
+    margin: 0 auto;
+  }
+
+  .crew-title {
+    width: 100%;
+    text-align: start;
+    margin-top: 2.2rem;
+  }
+
+  .crew-title .gris {
+    margin-left: 2rem;
+    margin-right: 0.8rem;
+  }
+
+  .crew-title h5 {
+    font-size: 1.1rem;
+    letter-spacing: 3.5px;
+  }
+
+  .crew-left {
+    width: 768px;
+    align-items: center;
+    padding-left: 0;
+  }
+
+  .crew-role {
+    margin-top: 2.7rem;
+    font-size: 1.35rem;
+  }
+
+  .crew-name {
+    margin-top: 0.6rem;
+    font-size: 2rem;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 2.4px;
+  }
+  .crew-left .body-text {
+    margin-top: 1.1rem;
+    width: 28.602rem;
+    height: 6rem;
+    hyphens: none;
+  }
+  .crew-selector {
+    margin-top: 0.5rem;
+    width: 5rem;
+    height: 0.8rem;
+  }
+  .crew-selector button {
+    width: 12px;
+    height: 12px;
+  }
+  .crew-right {
+    justify-content: center;
+    width: 768px;
+  }
+  .crew-right img {
+    margin-top: 2rem;
+    margin-left: 2rem;
+    width: 54%;
+    height: auto;
+  }
+}

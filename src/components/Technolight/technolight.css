@@ -1,0 +1,117 @@
+.technology-content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+  width: 100%;
+  height: 100%;
+}
+
+.technology-aside {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 4.444rem;
+  height: 16.833rem;
+  margin-top: 7rem;
+}
+
+.technology-aside button {
+  width: 4.444rem;
+  height: 4.444rem;
+  border-radius: 50%;
+  border: 1px solid grey;
+  font-size: 1.778rem;
+  font-family: "Bellefair", sans-serif;
+  cursor: pointer;
+}
+
+.technology-aside button:hover {
+  border: 1px solid white;
+}
+
+.technology-aside .button-inactive {
+  background-color: rgba(255, 255, 255, 0);
+  color: #fff;
+  border: 1px solid grey;
+}
+
+.technology-aside .button-active {
+  background-color: #ffffff;
+  color: #0b0d17;
+}
+
+.technology-left {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+  color: #fff;
+  width: 33.333rem;
+  margin-left: 4.5rem;
+  margin-top: 7rem;
+}
+
+.technology-label {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 0.889rem;
+  letter-spacing: 2.7px;
+  color: #d0d6f9;
+}
+
+.technology-name {
+  margin-top: 0.8rem;
+  font-family: "Bellefair", serif;
+  font-size: 3.111rem;
+  text-transform: uppercase;
+  width: 34.111rem;
+}
+
+.technology-left .body-text {
+  margin-top: 0.65rem;
+  width: 24.667rem;
+  color: #d0d6f9;
+}
+
+.technology-right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: right;
+      -ms-flex-pack: right;
+          justify-content: right;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  width: 28.611rem;
+  margin-top: 1rem;
+  margin-left: 0.05rem;
+}
+
+.technology-right img {
+  width: 28.611rem;
+  height: 29.278rem;
+}
+/*# sourceMappingURL=technolight.css.map */

@@ -1,0 +1,30 @@
+@media screen and (max-width: 500px) {
+  .body {
+    background-image: url(../../assets/destination/background-destination-mobile.jpg);
+    background-size: cover;
+  }
+  .destination {
+    width: 375px;
+    height: 100vh;
+    margin: 0 auto;
+  }
+  .destination-body {
+    width: 375px;
+    height: 780.67px;
+    margin: 0 auto;
+  }
+  .destination-title {
+    width: 100%;
+    text-align: center;
+    margin-top: 1.6rem;
+    margin-left: 0;
+  }
+  .destination-title .gris {
+    margin-right: 1.14rem;
+  }
+  .destination-tab {
+    width: 375px;
+    margin: 2rem auto;
+  }
+}
+/*# sourceMappingURL=destination-mobile.css.map */

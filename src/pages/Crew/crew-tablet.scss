@@ -1,0 +1,17 @@
+@media screen and (max-width: 800px) {
+  .crew {
+    background-image: url(../../assets/crew/background-crew-tablet.jpg);
+    //background-image: url(../../../TabletCrew.jpg);
+    background-size: 768px 1024px;
+    width: 768px;
+    height: auto;
+    margin: 0 auto;
+  }
+
+  .crew-body {
+    width: 768px;
+    height: 928px;
+    margin: 0 auto;
+    overflow-y: hidden;
+  }
+}

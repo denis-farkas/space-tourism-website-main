@@ -1,0 +1,36 @@
+@media screen and (max-width: 800px) {
+  .technology {
+    background-image: url(../../assets/technology/background-technology-tablet.jpg);
+    background-color: #0b0d1756;
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-size: 768px 1024px;
+    width: 768px;
+    height: auto;
+    margin: 0 auto;
+  }
+  .technology-body {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    width: 768px;
+    height: auto;
+    margin-left: 0;
+    margin: 0 auto;
+    margin-top: 2rem;
+  }
+  .technology-title {
+    margin-top: 0.2rem;
+    padding-left: 2.16rem;
+  }
+  .technology-title .gris {
+    margin-right: 0.75rem;
+  }
+  .technology-title h5 {
+    font-size: 1.1rem;
+    letter-spacing: 3.5px;
+  }
+}
+/*# sourceMappingURL=technology-tablet.css.map */

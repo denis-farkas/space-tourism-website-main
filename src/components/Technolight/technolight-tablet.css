@@ -1,0 +1,74 @@
+@media screen and (max-width: 800px) {
+  .technology-content {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .technology-right {
+    width: 768px;
+    height: auto;
+    -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+            order: 1;
+    margin-left: 0rem;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .technology-right img {
+    width: 768px;
+    height: auto;
+    margin-top: 1.7rem;
+  }
+  .technology-aside {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    width: 100%;
+    height: 4rem;
+    -webkit-box-ordinal-group: 3;
+        -ms-flex-order: 2;
+            order: 2;
+    margin-top: 2.75rem;
+  }
+  .technology-aside button {
+    width: 3.2rem;
+    height: 3.2rem;
+    margin: 0 8.7px;
+    font-size: 1.3rem;
+  }
+  .technology-left {
+    -webkit-box-ordinal-group: 4;
+        -ms-flex-order: 3;
+            order: 3;
+  }
+  .technology-left {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin: 2.15rem auto;
+    width: 100%;
+    padding-bottom: 3.232rem;
+  }
+  .technology-label {
+    text-align: center;
+    letter-spacing: 2.7px;
+    font-size: 0.889rem;
+    width: 90%;
+    margin-left: 0.5rem;
+  }
+  .technology-name {
+    width: 100%;
+    font-size: 2.2rem;
+    text-align: center;
+    margin-top: 1rem;
+  }
+  .technology-left .body-text {
+    margin-top: 0.8rem;
+    width: 24.5rem;
+  }
+}
+/*# sourceMappingURL=technolight-tablet.css.map */

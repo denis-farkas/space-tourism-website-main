@@ -1,0 +1,49 @@
+@media screen and (max-width: 800px) {
+  .home {
+    background-image: url(../../assets/home/background-home-tablet.jpg);
+    background-size: 768px 1024px;
+    width: 768px;
+    height: auto;
+    margin: 0 auto;
+  }
+  .container-body {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .text-content {
+    height: 18.556rem;
+    margin-top: 5.9rem;
+    margin-left: 0;
+  }
+  .text-content h5 {
+    font-size: 1.09rem;
+    letter-spacing: 3.5px;
+  }
+  .text-content h1 {
+    -webkit-margin-before: 0.8rem;
+            margin-block-start: 0.8rem;
+    -webkit-margin-after: 0.2rem;
+            margin-block-end: 0.2rem;
+  }
+  .body-text {
+    margin-top: 0.5rem;
+    text-align: center;
+    line-height: 1.56rem;
+    font-size: 16px;
+    width: 24.7rem;
+  }
+  .explore-content {
+    margin-top: 5.5rem;
+    margin-left: 0;
+    height: 20rem;
+    margin-bottom: 28.83px;
+  }
+  .explore {
+    width: 13.444rem;
+    height: 13.444rem;
+  }
+}
+/*# sourceMappingURL=home-tablet.css.map */

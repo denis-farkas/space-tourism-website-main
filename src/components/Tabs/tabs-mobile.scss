@@ -1,0 +1,83 @@
+@media screen and (max-width: 500px) {
+  .tab-content {
+    width: 375px;
+    margin: 0 auto;
+  }
+
+  .tab-left img {
+    width: 170px;
+    height: 170px;
+  }
+
+  .tabs-container {
+    width: 375px;
+  }
+
+  .tabs {
+    width: 70%;
+    margin-top: 0.8rem;
+  }
+
+  .tabs button {
+    margin: 0 12px;
+    font-size: 14px;
+    padding-bottom: 11px;
+  }
+
+  .tabs button.button-active {
+    padding-bottom: 8px;
+    border-bottom: 3px solid #fff;
+  }
+
+  .tabs button:hover {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #fff;
+  }
+
+  .tab-right h2 {
+    font-size: 4.3rem;
+    margin-block-start: 1.7rem;
+  }
+
+  .tab-right .body-text {
+    width: 87%;
+    font-size: 15px;
+    margin-top: -7px;
+    line-height: 1.63;
+  }
+
+  .separation {
+    width: 87%;
+    margin-top: 1.5rem;
+  }
+  .tab-right-footer {
+    width: 50%;
+    flex-wrap: wrap;
+  }
+  .distance {
+    width: 100%;
+    margin-top: 0.9rem;
+  }
+
+  .distance .sub-heading-2 {
+    font-size: 14px;
+  }
+
+  .distance .sub-heading-1 {
+    font-size: 28px;
+    margin-top: 0.8rem;
+  }
+  .time {
+    width: 100%;
+    margin-top: 2.6rem;
+  }
+
+  .time .sub-heading-2 {
+    font-size: 14px;
+  }
+
+  .time .sub-heading-1 {
+    font-size: 28px;
+    margin-top: 0.8rem;
+  }
+}

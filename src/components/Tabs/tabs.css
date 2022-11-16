@@ -1,0 +1,131 @@
+.tab-content {
+  width: 70rem;
+  height: 28rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.tabs-container {
+  width: 100%;
+  height: auto;
+}
+
+.tab-left {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 30.556rem;
+}
+
+.tab-left img {
+  width: 24.722rem;
+  height: 24.722rem;
+  margin-left: 9.7rem;
+}
+
+.tab-right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+  width: 26rem;
+  margin-left: 10.7rem;
+  color: #fff;
+}
+
+.tab-right-footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+  width: 24.572rem;
+}
+
+.distance {
+  width: 50%;
+}
+
+.time {
+  width: 50%;
+}
+
+.tabs {
+  width: 38%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 40.3rem;
+}
+
+.tabs button {
+  background-color: rgba(255, 255, 255, 0);
+  border: none;
+  color: #ffffff;
+  text-transform: uppercase;
+  margin: 0 17px;
+  padding: 0;
+  padding-top: 13px;
+  padding-bottom: 16px;
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  letter-spacing: 2.7px;
+  cursor: pointer;
+}
+
+.tabs button.button-active {
+  padding-bottom: 13px;
+  border-bottom: 3px solid #fff;
+}
+
+.tabs button:hover {
+  padding-bottom: 14px;
+  border-bottom: 2px solid grey;
+}
+
+.tab-right h2 {
+  font-size: 5.556rem;
+  text-transform: uppercase;
+  -webkit-margin-before: 2rem;
+          margin-block-start: 2rem;
+  -webkit-margin-after: 1rem;
+          margin-block-end: 1rem;
+  font-weight: 400;
+}
+
+.separation {
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+  height: 1rem;
+  width: 24.57rem;
+  border-bottom: 1px solid #97979791;
+}
+
+.distance .sub-heading-1,
+.time .sub-heading-1 {
+  text-transform: uppercase;
+  margin-top: 0.65rem;
+}
+
+.tab-right .body-text {
+  margin-top: -0.2rem;
+}
+/*# sourceMappingURL=tabs.css.map */

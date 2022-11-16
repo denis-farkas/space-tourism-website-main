@@ -1,0 +1,37 @@
+@media screen and (max-width: 800px) {
+  .destination {
+    background-image: url(../../assets/destination/background-destination-tablet.jpg);
+    background-size: 768px 1024px;
+    width: 768px;
+    height: auto;
+    margin: 0 auto;
+  }
+
+  .destination-body {
+    width: 768px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0;
+  }
+
+  .destination-title {
+    margin-top: 2.2rem;
+    margin-left: 2.2rem;
+  }
+
+  .destination-title .gris {
+    margin-right: 0.8rem;
+  }
+  .destination-title h5 {
+    font-size: 1.1rem;
+    letter-spacing: 3.5px;
+  }
+
+  .destination-tab {
+    width: 768px;
+    height: auto;
+    justify-content: center;
+  }
+}

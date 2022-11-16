@@ -1,0 +1,71 @@
+@media screen and (max-width: 800px) {
+  .tab-content {
+    width: 768px;
+    height: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .tabs-container {
+    width: 768px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .tabs {
+    width: 42%;
+    margin-left: 0rem;
+    margin-top: 1.4rem;
+  }
+
+  .tab-left {
+    order: 1;
+    width: 100%;
+  }
+
+  .tab-left img {
+    width: 17.4rem;
+    height: 17.4rem;
+    margin-left: 0rem;
+  }
+
+  .tabs-container {
+    order: 2;
+  }
+
+  .tab-right {
+    order: 3;
+    width: 100%;
+    height: auto;
+    margin-left: 0rem;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .tab-right h2 {
+    font-size: 4.38rem;
+    margin-block-start: 1.78rem;
+    margin-block-end: 0.7rem;
+  }
+
+  .tab-right .body-text {
+    width: 32rem;
+  }
+
+  .separation {
+    width: 31.8rem;
+    margin-top: 1.7rem;
+  }
+
+  .tab-right-footer {
+    justify-content: space-between;
+    width: 25.5rem;
+    margin-bottom: 62.11px;
+  }
+  .distance {
+    text-align: center;
+  }
+  .time {
+    text-align: center;
+  }
+}

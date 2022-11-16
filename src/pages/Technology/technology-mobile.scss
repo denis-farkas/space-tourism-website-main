@@ -1,0 +1,28 @@
+@media screen and (max-width: 500px) {
+  .body {
+    background-image: url(../../assets/technology/background-technology-mobile.jpg);
+    background-size: cover;
+  }
+  .technology {
+    width: 375px;
+    height: 100vh;
+    margin: 0 auto;
+  }
+
+  .technology-body {
+    width: 375px;
+    height: auto;
+    margin: 0 auto;
+  }
+
+  .technology-title {
+    width: 100%;
+    text-align: center;
+    margin-top: 1.6rem;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .technology-title .gris {
+    margin-right: 1.1rem;
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,KAAK;EACjC,AAAA,KAAK,CAAC;IACJ,gBAAgB,EAAE,iDAAiD;IAEnE,eAAe,EAAE,YAAY;IAC7B,KAAK,EAAE,KAAK;IACZ,MAAM,EAAE,IAAI;IACZ,MAAM,EAAE,MAAM;GACf;EAED,AAAA,UAAU,CAAC;IACT,KAAK,EAAE,KAAK;IACZ,MAAM,EAAE,KAAK;IACb,MAAM,EAAE,MAAM;IACd,UAAU,EAAE,MAAM;GACnB",
+    "sources": [
+        "crew-tablet.scss"
+    ],
+    "names": [],
+    "file": "crew-tablet.css"
+}

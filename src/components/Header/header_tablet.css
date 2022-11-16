@@ -1,0 +1,23 @@
+@media screen and (max-width: 800px) {
+  .menu-mobile {
+    display: none;
+  }
+  .header {
+    width: 768px;
+    margin-top: 0;
+    height: 5.333rem;
+  }
+  .header-left {
+    margin-left: 2.2rem;
+  }
+  .header-line {
+    display: none;
+  }
+  .topnav {
+    width: 25rem;
+    height: 5.333rem;
+    font-size: 14px;
+    margin-left: 0;
+  }
+}
+/*# sourceMappingURL=header_tablet.css.map */

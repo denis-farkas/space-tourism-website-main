@@ -1,0 +1,39 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80rem;
+  height: 5.333rem;
+  margin-top: 2.2rem;
+}
+
+.menu-mobile {
+  display: none;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  height: 5.333rem;
+  margin-left: 3rem;
+}
+
+.header-line {
+  border-bottom: 1px solid #979797;
+  height: 1.3rem;
+  width: 26.278rem;
+  margin-left: 3.556rem;
+  margin-top: -1.111rem;
+  z-index: 2;
+}
+
+.topnav {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  width: 46.111rem;
+  height: 5.333rem;
+  background-color: #ffffff04;
+  margin-left: -1.75rem;
+  backdrop-filter: blur(35px);
+}

@@ -1,0 +1,43 @@
+@media screen and (max-width: 500px) {
+  .topnav.responsive .navbar-nav {
+    margin: 1rem 1rem;
+    flex-wrap: wrap;
+    width: 262px;
+    height: 20vh;
+  }
+
+  .topnav.responsive .navbar {
+    width: 262px;
+    height: 90vh;
+    margin-left: 0;
+  }
+
+  .topnav.responsive .nav {
+    display: block;
+    color: white;
+    margin: 0;
+    width: 246px;
+    font-weight: 400;
+    height: auto;
+  }
+
+  .topnav.responsive .nav .nav-text {
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
+    font-size: 1rem;
+  }
+
+  .topnav.responsive .nav .nav-text .num-bold {
+    display: inline;
+  }
+  .topnav.responsive .nav.active {
+    border-right: 2px solid white;
+    border-bottom: none;
+  }
+
+  .topnav.responsive .nav:hover {
+    border-right: 2px solid grey;
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+}

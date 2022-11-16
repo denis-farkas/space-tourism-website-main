@@ -1,0 +1,45 @@
+@media screen and (max-width: 500px) {
+  .technology-right {
+    width: 375px;
+    height: auto;
+    margin: 0 auto;
+  }
+  .technology-right img {
+    margin-top: 1.8rem;
+    width: 375px;
+    height: 170px;
+    text-align: center;
+  }
+
+  .technology-aside {
+    margin-top: 2.1rem;
+  }
+
+  .technology-aside button {
+    width: 3rem;
+    height: 3rem;
+    margin: 0 8.7px;
+    font-size: 1.3rem;
+  }
+
+  .technology-left {
+    margin: 1.7rem auto;
+    padding-bottom: 4rem;
+  }
+
+  .technology-label {
+    font-size: 1rem;
+  }
+
+  .technology-name {
+    font-size: 1.85rem;
+    margin-top: 0.8rem;
+  }
+
+  .technology-left .body-text {
+    margin-top: 1.3rem;
+    width: 350px;
+    hyphens: none;
+    line-height: 1.55;
+  }
+}
