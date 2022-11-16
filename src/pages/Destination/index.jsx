@@ -1,8 +1,8 @@
-import Header from "../../components/Header";
-import Tabs from "../../components/Tabs";
 import "./destination.css";
 import "./destination-tablet.css";
 import "./destination-mobile.css";
+import Header from "../../components/Header";
+import Tabs from "../../components/Tabs";
 
 const Destination = () => {
   return (
