@@ -1,6 +1,7 @@
 @media screen and (max-width: 500px) {
   .tab-content {
     width: 375px;
+    height: 850px;
     margin: 0 auto;
   }
   .tab-left img {

@@ -8,8 +8,8 @@
     width: 375px;
   }
   .crew-right {
-    width: 320px;
-    height: auto;
+    width: 327px;
+    height: 288px;
     margin: 0 auto;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -23,8 +23,10 @@
   .crew-right img {
     margin-top: 1.8rem;
     margin-left: 1.4rem;
-    width: 56%;
+    width: 181px;
     height: auto;
+    -ms-flex-item-align: end;
+        align-self: flex-end;
   }
   .crew-title {
     width: 100%;

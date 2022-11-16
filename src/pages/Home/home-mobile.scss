@@ -1,13 +1,10 @@
 @media screen and (max-width: 500px) {
-  body {
-    background-image: url(../../assets/home/background-home-mobile.jpg);
-    background-size: cover;
-  }
-
   .home {
     width: 375px;
     height: 100vh;
     margin: 0 auto;
+    background-image: url(../../assets/home/background-home-mobile.jpg);
+    background-size: cover;
   }
 
   .text-content {

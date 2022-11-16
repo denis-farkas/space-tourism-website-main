@@ -1,18 +1,15 @@
 @media screen and (max-width: 500px) {
-  body {
+  .destination {
+    width: 375px;
+    height: 100vh;
+    margin: 0 auto;
     background-image: url(../../assets/destination/background-destination-mobile.jpg);
     background-size: cover;
   }
 
-  .destination {
-    width: 375px;
-    height: 900px;
-    margin: 0 auto;
-  }
-
   .destination-body {
     width: 375px;
-    height: 900px;
+    height: auto;
     margin: 0 auto;
   }
 

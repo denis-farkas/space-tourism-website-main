@@ -1,12 +1,10 @@
 @media screen and (max-width: 500px) {
-  body {
-    background-image: url(../../assets/technology/background-technology-mobile.jpg);
-    background-size: cover;
-  }
   .technology {
     width: 375px;
     height: 100vh;
     margin: 0 auto;
+    background-image: url(../../assets/technology/background-technology-mobile.jpg);
+    background-size: cover;
   }
 
   .technology-body {
